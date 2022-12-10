@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html  class = "flex-container" lang ="en">
+<div *ngFor = "let card of cards;">
+    <div class = "card">
+        <h1 class = "title">{{card.title}}</h1>
+        <p class = "text">{{card.text}}</p>
+        <button type ="button" class ="button" (click) = "result(card.result)">
+            {{card.buttonText}}
+        </button>
+    </div>    
+</div>
+
+
+</html>

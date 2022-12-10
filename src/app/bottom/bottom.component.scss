@@ -1,0 +1,12 @@
+.splitDown{
+    z-index: 1;
+    position: fixed;
+    height: 50%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 5px solid black;
+    border-right: 0px;
+    border-left: 0px;
+    background-color: white;
+}
