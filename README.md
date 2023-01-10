@@ -1,4 +1,4 @@
-EN : This was my first real project involving web development. It took a lot of patience and research, but it was worth it. The site itself is a small text-based adventure game.
+EN : This is my first real project involving web development and it was my first time working with Angular,HTML and CSS/SCSS. It was meant to be only homework, but it became so much more for me. It took a lot of patience and research, but it was worth it. The site itself is a small text-based adventure game.
 
 RO : Acesta a fost primul meu proiect mai serios legat de web development. M-am chinuit puțin la el având în vedere că nu am avut nicio experiență în acest domeniu până acum, dar s-a meritat. Site-ul în sine este un mic joc de aventură care iți oferă câteva opțiuni.
 
